@@ -1,8 +1,8 @@
 # Diamond-Price-Prediction
-
 we wont to predict diamond price from this feature
+
 # Context
-# This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
+This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 Content price price in US dollars ($326--$18,823)
 carat weight of the diamond (0.2--5.01)
 cut quality of the cut (Fair, Good, Very Good, Premium, Ideal)
